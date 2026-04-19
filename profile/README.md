@@ -43,9 +43,11 @@ Robomart has been building autonomous delivery vehicles since 2018 — five gene
 
 **Gala** (2018) was the world's first self-driving store — a full mobile shop that customers could hail to their door. It proved the concept and put Robomart on the map.
 
+
 ![First-generation Robomart — "The store that comes to you"](assets/first-gen.jpg)
 
 **First generation** — Robomart's mobile store on the streets of Brooklyn. A retrofitted Metris van packed with shelves of goods, branded with the original tagline: *The store that comes to you.*
+
 
 ![RM5 — fifth-generation autonomous delivery robot (2025)](assets/rm5.jpg)
 
@@ -65,7 +67,7 @@ Robomart's proprietary Level 4 full self-driving system. Robomind is the autonom
 
 ### Autofleet
 
-Robomart's fleet intelligence system. Autofleet handles real-time vehicle dispatch, route optimization, multi-store order batching, and fleet-wide health monitoring. The **Robomart Command Center** provides continuous oversight of every RM5 — live telemetry, localization, sensor health, and authenticated camera feeds. Fleet Observers are on duty at all times.
+Robomart's fleet intelligence system. Autofleet handles real-time vehicle dispatch, route optimization, multi-store order batching, and fleet-wide health monitoring. The Robomart Command Center provides continuous oversight of every RM5 — live telemetry, localization, sensor health, and authenticated camera feeds. Fleet Observers are on duty at all times.
 
 ### Auto-Checkout
 
@@ -79,13 +81,13 @@ Safety is Robomart's highest priority. The RM5 is purpose-built for delivery —
 
 > A geofenced, zero-occupant vehicle limited to 25 mph, engineered with low kinetic energy and no passenger-protection tradeoffs, ensuring pedestrians, cyclists, and nearby vehicles remain the top priority in every scenario.
 
-- **Zero occupants:** No driver, no passengers. No trolley problem. The vehicle always prioritizes people outside it.
-- **Low speed:** 25 mph max, ~7x lower kinetic energy than highway speeds.
-- **Geofenced:** Mapped zones only. Never on highways or roads above 45 mph.
-- **Redundant architecture:** Redundant control units with independent power sources. No single-point failures.
-- **Hardwired collision sensors:** Front, side, and rear contact detection triggers immediate stops independent of the autonomous software.
-- **Minimal risk condition:** On any fault — sensor, connectivity, environment — the vehicle executes a controlled safe stop, activates hazard lights, and notifies ops.
-- **Crashworthiness:** Lightweight body engineered for controlled deformation to protect pedestrians and cyclists.
+- Zero occupants: No driver, no passengers. No trolley problem. The vehicle always prioritizes people outside it.
+- Low speed: 25 mph max, ~7x lower kinetic energy than highway speeds.
+- Geofenced: Mapped zones only. Never on highways or roads above 45 mph.
+- Redundant architecture: Redundant control units with independent power sources. No single-point failures.
+- Hardwired collision sensors: Front, side, and rear contact detection triggers immediate stops independent of the autonomous software.
+- Minimal risk condition: On any fault — sensor, connectivity, environment — the vehicle executes a controlled safe stop, activates hazard lights, and notifies ops.
+- Crashworthiness: Lightweight body engineered for controlled deformation to protect pedestrians and cyclists.
 
 Testing follows a rigorous phased approach: simulation, then private test tracks, then limited geofenced areas, before any public deployment. Every software update undergoes structured testing with rollback protections.
 
@@ -97,11 +99,11 @@ Testing follows a rigorous phased approach: simulation, then private test tracks
 
 Robomart Connect is the platform that opens the Robomart fleet to retailers, merchants, and developers. A single integration point to dispatch, track, and manage autonomous deliveries — no fleet to build, no drivers to hire, no vehicles to maintain.
 
-- **Fleet dispatch** — Request the nearest available RM5 on demand
-- **Order management** — Qualify orders, assign vehicles, batch across retailers
-- **Locker access** — Authenticated lock/unlock for store staff and customers
-- **Delivery tracking** — Real-time vehicle location, ETA, and status updates
-- **Telemetry** — Live vehicle health, route progress, and delivery confirmation
+- Fleet dispatch — Request the nearest available RM5 on demand
+- Order management — Qualify orders, assign vehicles, batch across retailers
+- Locker access — Authenticated lock/unlock for store staff and customers
+- Delivery tracking — Real-time vehicle location, ETA, and status updates
+- Telemetry — Live vehicle health, route progress, and delivery confirmation
 
 ### How It Works
 
@@ -120,12 +122,12 @@ Partners keep their own apps, their own brand, their own customer relationship. 
 
 Robomart has partnered with global brands to further its mission of delivering autonomy:
 
-- **Ahold Delhaize**
-- **Unilever**
-- **Mars**
-- **Avery Dennison**
-- **NVIDIA**
-- **Yamaha Motors**
+- Ahold Delhaize
+- Unilever
+- Mars
+- Avery Dennison
+- NVIDIA
+- Yamaha Motors
 
 ## Backed By
 
