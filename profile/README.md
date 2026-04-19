@@ -22,6 +22,8 @@ The RM5 is our fifth-generation vehicle — driverless, passengerless, road-goin
 
 ## RM5
 
+![Robomart RM5](assets/rm5-collage.jpg)
+
 The RM5 is a Level 4 fully autonomous delivery robot — purpose-built, not adapted from a passenger car.
 
 - **Autonomy:** Level 4 fully self-driving, powered by Robomind
