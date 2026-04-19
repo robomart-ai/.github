@@ -4,36 +4,25 @@
 
 Robomart is a physical AI and robotics company building the future of autonomous commerce. Based in Glendale, CA, with offices in Austin, Baltimore, and San Francisco, Robomart is the creator of the world's first self-driving store and the most advanced autonomous delivery robots on the road today. Founded in 2017, Robomart pioneered **store-hailing** — bringing entire mobile shops directly to customers' doors — and is now redefining on-demand delivery with the **RM5**, a fully autonomous delivery platform engineered to make food and grocery delivery profitable.
 
-### The Problem
+---
+
+## The Problem
 
 Retailers lose money on virtually every on-demand delivery today. Consumers pay exorbitant fees — often 40% of order value in markups, service fees, and tips. Drones and sidewalk bots attempt to solve this through automation but are constrained by extremely limited payload capacity and narrow operating domains.
 
 What delivery needs is large, road-going autonomous vehicles with high payload, multi-store batching, and multiple compartments.
 
-### The Stack
+## The Solution
 
-```
-┌─────────────────────────────────────────────┐
-│  Conjure                                    │  Consumer app — the first application
-│  Get anything delivered.                    │  built on Robomart Connect
-├─────────────────────────────────────────────┤
-│  Robomart Connect                           │  Platform for retailers,
-│  Autonomous delivery as a service.          │  merchants, and developers
-├─────────────────────────────────────────────┤
-│  Robomart                                   │  Autonomous vehicles, Robomind,
-│  The robot.                                 │  fleet ops, safety, hardware
-└─────────────────────────────────────────────┘
-```
+Robomart has spent nearly a decade engineering the answer: purpose-built, fully autonomous delivery robots that bring the cost of delivery down by up to 70% compared to human labor, with up to 50x more capacity than drones and bots.
+
+The RM5 is our fifth-generation vehicle — driverless, passengerless, road-going, and designed from first principles to make on-demand delivery profitable for retailers and affordable for consumers.
 
 ---
 
-# I. Robomart — The Robot
-
-The foundation. Autonomous vehicles, self-driving intelligence, fleet operations, and the safety architecture that makes it all possible.
-
 ## RM5
 
-The RM5 is Robomart's fifth-generation, purpose-built autonomous delivery robot — a Level 4 fully autonomous, road-going vehicle that is driverless and passengerless by design.
+The RM5 is a Level 4 fully autonomous delivery robot — purpose-built, not adapted from a passenger car.
 
 - **Autonomy:** Level 4 fully self-driving, powered by Robomind
 - **Top Speed:** 25 mph (low-speed vehicle classification)
@@ -60,6 +49,8 @@ Robomart has been building autonomous delivery vehicles since 2018 — five gene
 
 **RM5** (2025) is the culmination of five generations of iteration. Purpose-built from the ground up for autonomous delivery at scale — no retrofitted vans, no adapted passenger cars. Every design decision optimized for safety, payload, and unit economics.
 
+---
+
 ## Core Technology
 
 ### Robomind
@@ -77,6 +68,8 @@ Robomart's fleet intelligence system. Autofleet handles real-time vehicle dispat
 ### Auto-Checkout
 
 Robomart's autonomous commerce layer. Auto-Checkout manages the end-to-end transaction between robot, retailer, and customer — from order assignment through locker access to delivery confirmation. Authenticated lock/unlock for store staff and customers, temperature-controlled compartment management, and real-time order status.
+
+---
 
 ## Safety
 
@@ -96,13 +89,11 @@ Testing follows a rigorous phased approach: simulation, then private test tracks
 
 ---
 
-# II. Robomart Connect — The Platform
+## Robomart Connect
 
 **Autonomous delivery as a service.**
 
 Robomart Connect is the platform that opens the Robomart fleet to retailers, merchants, and developers. A single integration point to dispatch, track, and manage autonomous deliveries — no fleet to build, no drivers to hire, no vehicles to maintain.
-
-### Capabilities
 
 - **Fleet dispatch** — Request the nearest available RM5 on demand
 - **Order management** — Qualify orders, assign vehicles, batch across retailers
@@ -119,19 +110,7 @@ Robomart Connect is the platform that opens the Robomart fleet to retailers, mer
 5. Customer gets notified on arrival and swipes to unlock their locker
 6. Delivery confirmed, vehicle returns to fleet
 
-Partners keep their own apps, their own brand, their own customer relationship. Robomart Connect handles the autonomous delivery behind it.
-
----
-
-# III. Conjure — The App
-
-**Get anything delivered.**
-
-Conjure is the first application built on top of Robomart Connect — a consumer-facing AI agent that finds, buys, and delivers anything within the hour.
-
-Where Robomart Connect gives retailers and developers the platform, Conjure gives consumers the experience: tell it what you need, and it handles the rest — sourcing, purchasing, and dispatching an RM5 to your door. No markups, no tipping, no surge pricing. Just autonomous delivery at the cost it should be.
-
-Conjure is proof that the stack works — and an invitation for others to build on it.
+Partners keep their own apps, their own brand, their own customer relationship. Robomart Connect handles the autonomous delivery behind it. [Conjure](https://github.com/conjureing) is the first application built on Robomart Connect.
 
 ---
 
