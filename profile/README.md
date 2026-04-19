@@ -2,7 +2,7 @@
 
 **Autonomy Delivered.**
 
-Robomart is a physical AI and robotics company building the future of autonomous commerce. Based in Glendale, CA, with offices in Austin, Baltimore, and San Francisco, Robomart is the creator of the world's first self-driving store and the most advanced autonomous delivery robots on the road today. Founded in 2017, Robomart pioneered **store-hailing** — bringing entire mobile shops directly to customers' doors — and is now redefining on-demand delivery with the **RM5**, a fully autonomous delivery platform engineered to make food and grocery delivery profitable.
+Robomart is a physical AI and robotics company building the future of autonomous delivery. Based in Glendale, CA, with offices in Austin, Baltimore, and San Francisco, Robomart is the creator of the world's first self-driving store and the most advanced autonomous delivery robots on the road today. Founded in 2017, Robomart pioneered **store-hailing** — bringing entire mobile shops directly to customers' doors — and is now redefining on-demand delivery with the **RM5**, a fully autonomous delivery platform engineered to make food and grocery delivery profitable.
 
 ---
 
