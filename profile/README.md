@@ -93,7 +93,7 @@ Testing follows a rigorous phased approach: simulation, then private test tracks
 
 ---
 
-## Robomart Relay SDK/API
+## Robomart Relay API/SDK
 
 **Autonomous delivery as a service.**
 
