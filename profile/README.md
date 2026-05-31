@@ -93,11 +93,11 @@ Testing follows a rigorous phased approach: simulation, then private test tracks
 
 ---
 
-## Robomart Connect
+## Robomart Relay SDK/API
 
 **Autonomous delivery as a service.**
 
-Robomart Connect is the platform that opens the Robomart fleet to retailers, merchants, and developers. A single integration point to dispatch, track, and manage autonomous deliveries — no fleet to build, no drivers to hire, no vehicles to maintain.
+Robomart Relay is the platform that opens the Robomart fleet to retailers, merchants, and developers. A single integration point to dispatch, track, and manage autonomous deliveries — no fleet to build, no drivers to hire, no vehicles to maintain.
 
 - Fleet dispatch — Request the nearest available RM5 on demand
 - Order management — Qualify orders, assign vehicles, batch across retailers
@@ -108,13 +108,13 @@ Robomart Connect is the platform that opens the Robomart fleet to retailers, mer
 ### How It Works
 
 1. Partner's app sends an order via Connect
-2. Connect qualifies the order and assigns an RM5
+2. Relay qualifies the order and assigns an RM5
 3. RM5 autonomously routes to the store, parks at a designated pickup bay
 4. Store staff swipes to unlock the relevant locker and loads the order
 5. Customer gets notified on arrival and swipes to unlock their locker
 6. Delivery confirmed, vehicle returns to fleet
 
-Partners keep their own apps, their own brand, their own customer relationship. Robomart Connect handles the autonomous delivery behind it. [Conjure](https://github.com/conjureing) is the first application built on Robomart Connect.
+Partners keep their own apps, their own brand, their own customer relationship. Robomart Relay handles the autonomous delivery behind it.
 
 ---
 
@@ -126,13 +126,14 @@ Robomart has partnered with global brands to further its mission of delivering a
 - Unilever
 - Mars
 - Avery Dennison
-- NVIDIA
+- NVIDIA Inception
 - Yamaha Motors
 
 ## Backed By
 
 Venture backed with millions in funding from:
 
+- SOSV
 - Hustle Fund
 - Wasabi Ventures
 - W Ventures
